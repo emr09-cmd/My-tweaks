@@ -3,7 +3,7 @@ Architecture: iphoneos-arm64
 Version: 0.0.1
 Section: Packaging
 Maintainer: emr09
-Filename: ./my-files/com.emr09.reposetup_0.0.1-7+debug_iphoneos-arm64.deb
+Filename: https://my-tweaks.netlify.app/my-files/com.emr09.reposetup_0.0.1-7+debug_iphoneos-arm64.deb
 Size: 2198572
 Description: Redo Setup
 Name: Redo Setup
