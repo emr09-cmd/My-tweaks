@@ -1,12 +1,15 @@
 Package: com.emr09.reposetup
+Version: 0.0.1-7+debug
 Architecture: iphoneos-arm64
-Version: 0.0.1
-Section: Packaging
 Maintainer: emr09
-Filename: https://my-tweaks.netlify.app/my-files/com.emr09.reposetup_0.0.1-7+debug_iphoneos-arm64.deb
-Size: 2198572
-Description: Redo Setup
-Name: Redo Setup
+Installed-Size: 176
+Filename: debs/com.emr09.reposetup_0.0.1-7+debug_iphoneos-arm64.deb
+Size: 11844
+MD5sum: b0f30934382365386b79dcda87b797e4
+SHA1: f93e02b12fcb0e50e7ebcb2d8a7fdf1110020778
+SHA256: 4a7938f08750bc9cc96336eddf9f5a97682b6aaadcad5169ff7a137e4b554c72
+Section: Utilities
+Description: An awesome application!
 Author: emr09
-Icon: https://getsileo.app/img/icon.png
-SileoDepiction: https://featuredpage.getsileo.app/depiction.json
+Name: RepoSetup
+
