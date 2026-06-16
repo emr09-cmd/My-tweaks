@@ -3,7 +3,7 @@ Codename: ios
 Components: main
 Date: Tue, 08 Oct 2024 09:07:02 +0000
 Description: Sileo for Checkra1n and Unc0ver
-Label: Sileo
-Origin: Sileo
+Label: Redo Setup
+Origin: Redo Setup
 Suite: stable
-Version: 2.0
+Version: 0.0.1
